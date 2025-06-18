@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ankit Mahato</h1>
 <h3 align="center">A passionate Full-Stack developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ankitmahato03&label=Profile%20views&color=0e75b6&style=flat" alt="ankitmahato03" /> </p>
-
-<p align="left">
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ankitmahato03&label=Profile%20views&color=0e75b6&style=flat" alt="ankitmahato03" /> </p> <p align="left">
   <a href="https://x.com/ankitmahato03" target="_blank">
     <img src="https://img.shields.io/twitter/url?url=https%3A%2F%2Fx.com%2Fankitmahato03" alt="ankitmahato03" />
   </a>

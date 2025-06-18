@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ankitmahato03&label=Profile%20views&color=0e75b6&style=flat" alt="ankitmahato03" /> </p>
 
-<p align="left"> <a href="https://x.com/ankitmahato03" target="blank"><img src="https://img.shields.io/x/follow/ankitmahato03?logo=twitter&style=for-the-badge" alt="ankitmahato03" /></a> </p>
+<p align="left"> <a href="https://x.com/ankitmahato03" target="blank"><img src="https://img.shields.io/x/follow/ankitmahato03?logo=x&style=for-the-badge" alt="ankitmahato03" /></a> </p>
 
 - 👨‍💻 All of my projects are available at [https://personal-p-mu.vercel.app/](https://personal-p-mu.vercel.app/)
 

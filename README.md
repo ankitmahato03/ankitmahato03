@@ -8,7 +8,7 @@
 
 - 👨‍💻 All of my projects are available at [https://personal-p-mu.vercel.app/](https://personal-p-mu.vercel.app/)
 
-- 💬 Ask me about **React node typescript Full-Stack**
+- 💬 Ask me about **React node typescript **
 
 - 📫 How to reach me **ankitmahato1212@gmail.com**
 

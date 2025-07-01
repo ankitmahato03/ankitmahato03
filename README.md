@@ -6,7 +6,7 @@
 </p>
 
 
-- 👨‍💻 All of my projects are available at [https://personal-p-mu.vercel.app/](https://personal-p-mu.vercel.app/)
+- 👨‍💻 All of my projects are available at: [https://personal-p-mu.vercel.app/](https://personal-p-mu.vercel.app/)
 
 - 💬 Ask me about **React node Typescript**
 
